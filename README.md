@@ -1,4 +1,3 @@
-ezcam_docs
-==========
+#ezCAM documentation
 
-ezCAM documentation
+ezCAM develop documentation
